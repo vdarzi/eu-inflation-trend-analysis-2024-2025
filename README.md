@@ -67,8 +67,7 @@ The Netherlands exhibits the highest inflation volatility, while Germany shows t
 
 See dashboard visualization:
 
-dashboard/dashboard_screenshot.png
-
+![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
 ---
 
 ## 💡 Business Insights
